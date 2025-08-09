@@ -6,6 +6,6 @@ public class Hello {
 		//System.out.println("ddd");
 		//System.out.println("xxx");
 		//System.out.println("xxx");
-		System.out.println("xxx");
+		//System.out.println("xxx");
 	}
 }
