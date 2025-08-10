@@ -1,7 +1,7 @@
 package java_world;
 
 public class Hello {
-	public static void main(String[] args) {
+	public static void main() {
 		//TTT
 		//System.out.println("yyy");
 		System.out.println("yyy");
