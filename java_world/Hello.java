@@ -8,10 +8,10 @@ public class Hello {
 		//System.out.println("xxx");
 		System.out.println("xxx");
 		//이게 뭐야 진짜
-		System.out.println("zzz");
-		System.out.println("zzz");
-		System.out.println("xxx");
-		System.out.println("xxx");
+		System.out.println("bbb");
+		System.out.println("bbb");
+		System.out.println("bbb");
+		System.out.println("bbb");
 
 		//이게 뭐야 진짜진짜
 		//이게 뭐야 진짜진짜
