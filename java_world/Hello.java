@@ -4,10 +4,10 @@ public class Hello {
 	public static void main(String[] args) {
 		//TTT
 		//System.out.println("yyy");
-		System.out.println("yyy");
+		System.out.println("zzz");
 		//이게 뭐야 진짜
-		System.out.println("yyy");
-		System.out.println("yyy");
+		System.out.println("zzz");
+		System.out.println("zzz");
 
 		//이게 뭐야 진짜진짜
 		//이게 뭐야 진짜진짜
