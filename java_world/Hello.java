@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("yyy");
 		//이게 뭐야 진짜
 		System.out.println("yyy");
+		System.out.println("yyy");
 
 		//이게 뭐야 진짜진짜
 		//이게 뭐야 진짜진짜
