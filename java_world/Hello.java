@@ -12,9 +12,5 @@ public class Hello {
 		System.out.println("bbb");
 		System.out.println("bbb");
 		System.out.println("bbb");
-
-		//이게 뭐야 진짜진짜
-		//이게 뭐야 진짜진짜
-		//이게 뭐야 진짜진짜
 	}
 }
